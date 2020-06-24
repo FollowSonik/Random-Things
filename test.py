@@ -1,0 +1,13 @@
+import math
+# print(min(-1, 2, 3, 5, 0))
+# print(max(0, 2, -3, -4, 4, 1, 4))
+# print(pow(2, 32))
+# print(round(3.4))
+# print(round(3.456134, 1))
+# print(round(4513, -1))
+# print(type(4.0))
+# print(max(4, 5, 6, 3, 1, abs(-55)))
+# print(9**(1/2))
+# print(pow(9, 1/2))
+# print(math.sin(0.2))
+print(round(math.pi, 55))
